@@ -37,7 +37,7 @@ Default fallback models (`gpt-4`, `gpt-3.5-turbo`, `gpt-4o`) are mapped to `gpt-
 
 1. **Clone or download the project**:
 ```bash
-cd /home/ubuntu/duckduckgo-ai-proxy
+cd MyclawbotApi
 ```
 
 2. **Create a virtual environment** (recommended):
